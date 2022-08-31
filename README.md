@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin for Android development
 - 💞️ I’m looking to collaborate future team projects
 - 📜 I know programming languages such as: lua, python and c#
-- 📫 Would love to work with easy.gg
+- 📫 Would love to work with other developers
 
 <!---
 RehaanAliDev/RehaanAliDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
