@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RehaanAliDev
 - 👀 I’m interested in team projects and Programming
 - 🌱 I’m currently learning Kotlin for Android development
-- 💞️ I’m looking to collaborate future team projects
-- 📜 I know programming languages such as: lua, python and c#
+- 💞️ I’m looking to collaborate on future team projects
+- 📜 I know programming languages such as: lua, kotlin and c#
 - 📫 Would love to work with other developers
 
 <!---
